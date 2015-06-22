@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.1.0
+apiversion: 2
+description: Progress Bar Module iOS
+author: Arley Andrada Maria
+license: Private
+copyright: Copyright (c) 2014 by ArlSoft Tecnologia
+
+# these should not be edited
+name: ProgressBarIOS
+moduleid: br.com.arlsoft.progressbar
+guid: 939241f5-77d8-4774-a3a9-8475b95f4b02
+platform: iphone
+minsdk: 3.1.3.GA

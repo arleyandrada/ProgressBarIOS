@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container">
+	    <Module id="progressbar" module="br.com.arlsoft.progressbar" method="createCircularView" />
+	</Window>
+</Alloy>
